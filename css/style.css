@@ -49,6 +49,10 @@ main {
   font-size: xx-large;
 }
 
+.card-text {
+  font-family: "Dancing Script", cursiva;
+}
+
 .carrousel-p {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
