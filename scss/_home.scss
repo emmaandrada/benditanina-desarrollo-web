@@ -1,0 +1,29 @@
+@import "variables";
+
+section {
+  background-color: none;
+  .imgi {
+    animation: $animacion;
+  }
+  button {
+    padding: 0.5rem 1.5rem;
+    border: solid rgb(255, 192, 203);
+    background: #f3ff86bb;
+    color: rgb(10, 10, 10);
+    font-size: 0.8rem;
+    font-style: italic;
+    cursor: pointer;
+  }
+  button:hover {
+    background: #9c918f9c;
+    color: rgb(5, 5, 5);
+  }
+  .bnindex {
+    font-family: $title-font;
+    font-style: $title-style;
+    font-size: $title-size;
+  }
+  .text {
+    font-size: $text-size;
+  }
+}

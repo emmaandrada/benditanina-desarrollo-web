@@ -1,0 +1,12 @@
+@import "variables";
+
+header {
+  background-color: $color-navbar;
+  .bnindex {
+    font-family: $title-font;
+    font-style: $title-style;
+  }
+  li {
+    font-style: italic;
+  }
+}
