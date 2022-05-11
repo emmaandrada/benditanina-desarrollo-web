@@ -42,6 +42,11 @@ footer {
   .button {
     padding: 0.1rem 1rem;
   }
+  .bnindex {
+    font-family: $title-font !important;
+    font-style: $title-style !important;
+    font-size: $title-size !important;
+  }
 }
 @media (min-width: 360px) {
   .img {

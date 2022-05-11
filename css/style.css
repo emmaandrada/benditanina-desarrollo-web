@@ -101,6 +101,12 @@ footer {
   .button {
     padding: 0.1rem 1rem;
   }
+
+  .bnindex {
+    font-family: "Mr Dafoe", cusrsiva !important;
+    font-style: oblique !important;
+    font-size: xx-large !important;
+  }
 }
 @media (min-width: 360px) {
   .img {
