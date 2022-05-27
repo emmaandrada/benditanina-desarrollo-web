@@ -16,6 +16,11 @@ footer {
   padding: 1rem 0;
 }
 
+/* ingresa-registrate */
+.btn {
+  background-color: rgb(241, 139, 139);
+}
+
 @keyframes from-right {
   0% {
     opacity: 0;
@@ -48,6 +53,7 @@ footer {
     font-size: $title-size !important;
   }
 }
+
 @media (min-width: 360px) {
   .img {
     width: 200px;

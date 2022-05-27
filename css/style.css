@@ -42,6 +42,9 @@ section .bnindex {
 section .text {
   font-size: normal 24px;
 }
+section .accordion-button {
+  background-color: rgba(184, 183, 182, 0.993);
+}
 
 .carrousel-h5 {
   font-family: "Mr Dafoe", cusrsiva;
@@ -57,10 +60,6 @@ section .text {
   background-color: rgba(0, 0, 0, 0.356);
 }
 
-.carousel-inner {
-  max-height: 39rem;
-}
-
 /* imagen del registro y el ingreso */
 /*  */
 /*  */
@@ -72,6 +71,11 @@ section .text {
 
 footer {
   padding: 1rem 0;
+}
+
+/* ingresa-registrate */
+.btn {
+  background-color: rgb(241, 139, 139);
 }
 
 @keyframes from-right {
